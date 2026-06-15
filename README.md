@@ -1,4 +1,3 @@
-<img width="537" height="629" alt="510b9c42-c857-41f5-beb6-6cc5261caf82" src="https://github.com/user-attachments/assets/01ade747-5365-49ca-a806-8b2dd3cc15ce" />
 # ⚡ EV Charging Analytics Pipeline using Apache Druid, Neon PostgreSQL & Superset
 
 ## 🚀 Overview
