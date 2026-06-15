@@ -1,3 +1,4 @@
+<img width="537" height="629" alt="510b9c42-c857-41f5-beb6-6cc5261caf82" src="https://github.com/user-attachments/assets/01ade747-5365-49ca-a806-8b2dd3cc15ce" />
 # ⚡ EV Charging Analytics Pipeline using Apache Druid, Neon PostgreSQL & Superset
 
 ## 🚀 Overview
@@ -129,23 +130,27 @@ http://localhost:8088
 
 ### Apache Druid Ingestion
 
-(Add Screenshot Here)
+<img width="893" height="484" alt="Screenshot 2026-06-15 102850" src="https://github.com/user-attachments/assets/cc1cf9fa-afd5-4dda-8261-86ae69842a96" />
+
 
 ### Druid Datasource
 
-(Add Screenshot Here)
+<img width="1366" height="768" alt="Screenshot 2026-06-15 103607" src="https://github.com/user-attachments/assets/bc557513-a33c-4c92-b727-aa99e91859ef" />
+
 
 ### SQL Transformations
 
-(Add Screenshot Here)
+<img width="987" height="479" alt="Screenshot 2026-06-15 111423" src="https://github.com/user-attachments/assets/d753d2f2-508f-447a-b575-2d7a36e4a27e" />
+
 
 ### Superset Connection
 
-(Add Screenshot Here)
+<img width="537" height="629" alt="510b9c42-c857-41f5-beb6-6cc5261caf82" src="https://github.com/user-attachments/assets/6ac11182-f7e7-47f9-a290-4149753e1f3a" />
 
 ### Dashboard Visualizations
 
-(Add Screenshot Here)
+<img width="1366" height="768" alt="Screenshot 2026-03-16 211219" src="https://github.com/user-attachments/assets/b2b22599-2af9-4999-9c8e-6cdf474b5746" />
+
 
 ---
 
